@@ -1,8 +1,3 @@
-/*
-	Authour: Maxwell Morrison
-	Authour email: wavestech@gmail.com
-*/
-
 ==============================
 		Instructions
 ==============================
